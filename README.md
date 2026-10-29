@@ -31,16 +31,16 @@ As tecnologias que eu mais uso em quadra:
       <sub><b>PHP</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" alt="Laravel" /><br>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" /><br>
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /><br>
       <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
     </td>
   </tr>
 </table>
@@ -55,19 +55,15 @@ Sempre prontos pra entrar no jogo:
   <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" /><br>
-      <sub><b>HTML5</b></sub>
+      <sub><b>HTML</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" /><br>
-      <sub><b>CSS3</b></sub>
+      <sub><b>CSS</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" /><br>
-      <sub><b>VS Code</b></sub>
+      <img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS" /><br>
+      <sub><b>AWS</b></sub>
     </td>
   </tr>
 </table>
