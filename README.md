@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:ff1a1a,70:c9a7ff,100:7df9ff&height=220&section=header&text=migss69&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%20welcome%20to%20my%20page%20%E2%9C%A6&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:8b0000,100:ff1a1a&height=220&section=header&text=migss69&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A6%20welcome%20to%20my%20page%20%E2%9C%A6&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C9A7FF&center=true&vCenter=true&width=480&lines=hi%2C+eu+sou+o+Miguel+%E2%99%A1;estudante+de+tecnologia+%E2%9C%A6;programa%C3%A7%C3%A3o+%E2%8B%86+hardware+%E2%8B%86+games;under+construction+%F0%9F%9A%A7" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF1A1A&center=true&vCenter=true&width=480&lines=hi%2C+eu+sou+o+Miguel+%E2%99%A1;estudante+de+tecnologia+%E2%9C%A6;programa%C3%A7%C3%A3o+%E2%8B%86+hardware+%E2%8B%86+games;under+construction+%F0%9F%9A%A7" alt="typing" />
 
 </div>
 
@@ -36,8 +36,8 @@ Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dad
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40migsswz-FF1A1A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C9A7FF)](https://instagram.com/migsswz)
-[![GitHub](https://img.shields.io/badge/GitHub-migss69-C9A7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/migss69)
+[![Instagram](https://img.shields.io/badge/Instagram-%40migsswz-FF1A1A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/migsswz)
+[![GitHub](https://img.shields.io/badge/GitHub-migss69-FF1A1A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/migss69)
 
 </div>
 
@@ -47,6 +47,6 @@ Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dad
 
 `✦ ⋆ ˖ ࣪ ⊹ ★ ♡ ★ ⊹ ࣪ ˖ ⋆ ✦`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7df9ff,30:c9a7ff,65:ff1a1a,100:000000&height=100&section=footer" alt="rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,55:8b0000,100:000000&height=100&section=footer" alt="rodapé" />
 
 </div>
