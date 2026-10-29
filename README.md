@@ -1,5 +1,4 @@
 <!-- ✦ README DE PERFIL ESTILO Y2K ✦ -->
-<!-- Cole este arquivo no repositório migss69 (README.md) -->
 
 <div align="center">
 
@@ -13,15 +12,6 @@
 
 ## ✦ about me
 
-```
-╭─────────────────────────────────────╮
-│  ★ nome ........ Miguel Anthony     │
-│  ★ user ........ migss69            │
-│  ★ escola ...... COTEMIG            │
-│  ★ status ...... aprendendo sempre  │
-╰─────────────────────────────────────╯
-```
-
 Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dados e montar/estudar hardware de PC. Aqui eu vou compartilhando o que aprendo pelo caminho ♡
 
 <br>
@@ -29,9 +19,15 @@ Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dad
 ## ★ tech stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,php,laravel,mysql,html,css,js,git,github,vscode&perline=10" alt="tecnologias" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
 </div>
 
 <br>
@@ -40,6 +36,7 @@ Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dad
 
 <div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-%40migsswz-FF9AD5?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C9A7FF)](https://instagram.com/migsswz)
 [![GitHub](https://img.shields.io/badge/GitHub-migss69-C9A7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=FF9AD5)](https://github.com/migss69)
 
 </div>
@@ -53,18 +50,3 @@ Estudante de curso técnico no **COTEMIG**, curtindo programação, banco de dad
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7df9ff,50:c9a7ff,100:ff9ad5&height=100&section=footer" alt="rodapé" />
 
 </div>
-
-<!--
-**migss69/migss69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
